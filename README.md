@@ -1,4 +1,4 @@
-# RangeShooter
+# Cemetery Shooter
 This is a shooter practice VR game. My aim is to create a spooky, but dreamy and fun environment for the user to enter in. It is set in a cemetery and the user is able to pick between an axe, a handgun and pistol to practice shooting while being on his/her nerve the entire time.
 
 **Sound Track:** I used the famous Hungarian song “szomorú vasárnap,” otherwise known as “the suicide music.” It featured in the movie “Gloomy Sunday” and I believe it symbolized the fragility of humanity under Nazi operation of Hungary. The Hungarians fought to the last with the Nazis, unable to withdraw like its neighbors, and people were dying against their wills when Budapest became a doomed city with sinking into inevitable death. It fits well with the cemetery scene. I made it a loop in the background with scripts. 
