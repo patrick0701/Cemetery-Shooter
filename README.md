@@ -4,15 +4,18 @@
 ![Screenshot (45)](https://user-images.githubusercontent.com/61094053/152822638-6a29ffa3-8ef5-48d7-8dbd-df0e549876e1.png)
 
 
-**To Access the Game Scene**
+**To Access the Game Scene:**
+
 Please move the ZombieScene folder into the Asset folder to access the scene.
 
 
 **To Play the Game:**
+
 Please take the apk file from the Apk folder and drag it to your Occulus Developer Hub or other portals you have.
 
 
 **To See a Demo Video:** 
+
 A VR demo is in the Demo folder
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
