@@ -16,7 +16,7 @@ Please take the apk file from the Apk folder and drag it to your Occulus Develop
 
 **To See a Demo Video:** 
 
-A VR demo is in the Demo folder
+A VR demo is in the Demo folder.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is a shooter practice VR game. My aim is to create a spooky, but dreamy and fun environment for the user to enter in. It is set in a cemetery and the user is able to pick between an axe, a handgun and pistol to practice shooting while being on his/her nerve the entire time.
