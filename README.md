@@ -3,9 +3,14 @@
 
 ![Screenshot (45)](https://user-images.githubusercontent.com/61094053/152822638-6a29ffa3-8ef5-48d7-8dbd-df0e549876e1.png)
 
-**To Access the Scene: ** Please move the zombieScene folder into the Asset folder to access the scene.
-**To Play the Game: ** Please use the apk file and drag it to your Occulus Developer Hub or other portals you have.
-**To See a Demo Video: ** A VR demo is in the demo folder
+**To Access the Game Scene**
+Please move the ZombieScene folder into the Asset folder to access the scene.
+
+**To Play the Game:**
+Please take the apk file from the Apk folder and drag it to your Occulus Developer Hub or other portals you have.
+
+**To See a Demo Video:** 
+A VR demo is in the Demo folder
 
 This is a shooter practice VR game. My aim is to create a spooky, but dreamy and fun environment for the user to enter in. It is set in a cemetery and the user is able to pick between an axe, a handgun and pistol to practice shooting while being on his/her nerve the entire time.
 
