@@ -3,6 +3,10 @@
 
 ![Screenshot (45)](https://user-images.githubusercontent.com/61094053/152822638-6a29ffa3-8ef5-48d7-8dbd-df0e549876e1.png)
 
+**To Access the Scene: ** Please move the zombieScene folder into the Asset folder to access the scene.
+**To Play the Game: ** Please use the apk file and drag it to your Occulus Developer Hub or other portals you have.
+**To See a Demo Video: ** A VR demo is in the demo folder
+
 This is a shooter practice VR game. My aim is to create a spooky, but dreamy and fun environment for the user to enter in. It is set in a cemetery and the user is able to pick between an axe, a handgun and pistol to practice shooting while being on his/her nerve the entire time.
 
 **Sound Track:** I used the famous Hungarian song “szomorú vasárnap,” otherwise known as “the suicide music.” It featured in the movie “Gloomy Sunday” and I believe it symbolized the fragility of humanity under Nazi operation of Hungary. The Hungarians fought to the last with the Nazis, unable to withdraw like its neighbors, and people were dying against their wills when Budapest became a doomed city with sinking into inevitable death. It fits well with the cemetery scene. I made it a loop in the background with scripts. 
