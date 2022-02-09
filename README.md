@@ -3,7 +3,6 @@
 
 ![Screenshot (45)](https://user-images.githubusercontent.com/61094053/152822638-6a29ffa3-8ef5-48d7-8dbd-df0e549876e1.png)
 
-**Instructions**
 
 **To Access the Game Scene**
 
